@@ -1,0 +1,98 @@
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\bin\ApplicationInsights.config
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\bin\roslyn\csc.exe
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\bin\roslyn\System.Collections.Immutable.dll
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\bin\roslyn\vbc.exe
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\bin\roslyn\VBCSCompiler.exe
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\bin\roslyn\VBCSCompiler.exe.config
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\bin\WebConsoleAPI.dll.config
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\bin\WebConsoleAPI.dll
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\bin\WebConsoleAPI.pdb
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\bin\EntityFramework.dll
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\bin\EntityFramework.SqlServer.dll
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\bin\Microsoft.AI.Web.dll
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\bin\Microsoft.AI.WindowsServer.dll
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\bin\Microsoft.ApplicationInsights.dll
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\bin\Newtonsoft.Json.dll
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\bin\System.Net.Http.Formatting.dll
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\bin\System.Web.Http.dll
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\bin\System.Web.Http.WebHost.dll
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\bin\EntityFramework.xml
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\bin\EntityFramework.SqlServer.xml
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\bin\Microsoft.AI.Web.xml
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\bin\Microsoft.AI.WindowsServer.xml
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\bin\Microsoft.ApplicationInsights.xml
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\bin\Newtonsoft.Json.xml
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\bin\System.Net.Http.Formatting.xml
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\bin\System.Web.Http.xml
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\bin\System.Web.Http.WebHost.xml
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\obj\Debug\WebConsoleAPI.csprojResolveAssemblyReference.cache
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\obj\Debug\WebConsoleAPI.dll
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\obj\Debug\WebConsoleAPI.pdb
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\bin\System.Web.Cors.dll
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\bin\System.Web.Http.Cors.dll
+c:\users\prathyush\documents\visual studio 2015\Projects\WebConsoleAPI\WebConsoleAPI\bin\System.Web.Http.Cors.xml
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\bin\ApplicationInsights.config
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\bin\roslyn\csc.exe
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\bin\roslyn\vbc.exe
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\bin\WebConsoleAPI.dll.config
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\bin\WebConsoleAPI.dll
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\bin\WebConsoleAPI.pdb
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\bin\EntityFramework.dll
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\bin\Microsoft.AI.Web.dll
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\bin\Newtonsoft.Json.dll
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\bin\System.Web.Cors.dll
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\bin\System.Web.Http.Cors.dll
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\bin\System.Web.Http.dll
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\bin\EntityFramework.xml
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\bin\Microsoft.AI.Web.xml
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\bin\System.Web.Http.xml
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\bin\System.Web.Http.Cors.xml
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\bin\Newtonsoft.Json.xml
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\obj\Debug\WebConsoleAPI.csprojAssemblyReference.cache
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\obj\Debug\WebConsoleAPI.csproj.CoreCompileInputs.cache
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\obj\Debug\WebConsoleAPI.csproj.CopyComplete
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\obj\Debug\WebConsoleAPI.dll
+C:\Users\sujan\Downloads\ConsoleProject\WebConsoleAPI\WebConsoleAPI\obj\Debug\WebConsoleAPI.pdb
